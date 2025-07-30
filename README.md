@@ -1,4 +1,6 @@
-# [repo-name]
+# Cloud Workstation Remote Desktop
+
+This repo contains helper scripts to facilitate long-lived Chrome Remote Desktop sessions on Google Cloud Workstations.
 
 
 # Disclaimer
